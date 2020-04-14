@@ -1,1 +1,1 @@
-# Hacker-Rank
+I'll focus this repository to post my results at Racker Rank platform. That way, I can track and improve my code everytime I learn something new. You are welcome to send me tips that will improve my experience. Thanks in advance.
